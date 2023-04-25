@@ -1,0 +1,115 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 800px;
+	height: 420px;
+	background: green;
+	position: relative;
+}
+
+
+.red{
+	width: 160px;
+	height: 160px;
+	background: red;
+	top: 130px;
+	right: 320px;
+	border-radius: 100%;
+	position: absolute;
+
+}
+
+.fb{
+	width: 250px;
+	height: 150px;
+	top: 150px;
+	right: -150px;
+	position: fixed;
+	cursor: pointer;
+	transition: 1s;
+}
+
+
+.fb:hover{
+	width: 250px;
+	height: 150px;
+	top: 150px;
+	right: 2px;
+	position: fixed;
+}
+
+
+.twt{
+	width: 250px;
+	height: 150px;
+	top: 230px;
+	right: -150px;
+	position: fixed;
+	cursor: pointer;
+	transition: 1s;
+}
+
+
+.twt:hover{
+	width: 250px;
+	height: 150px;
+	top: 230px;
+	right: 2px;
+	position: fixed;
+}
+
+
+.p{
+	width: 250px;
+	height: 150px;
+	top: 320px;
+	right: -150px;
+	position: fixed;
+	cursor: pointer;
+	transition: 1s;
+}
+
+
+.p:hover{
+	width: 250px;
+	height: 150px;
+	top: 320px;
+	right: 2px;
+	position: fixed;
+}
+
+
+
+.in{
+	width: 250px;
+	height: 150px;
+	top: 400px;
+	right: -150px;
+	position: fixed;
+	cursor: pointer;
+	transition: 1s;
+}
+
+
+.in:hover{
+	width: 250px;
+	height: 150px;
+	top: 400px;
+	right: 2px;
+	position: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
